@@ -1,0 +1,23 @@
+{
+  "name": "@aredridel/object-subscribe",
+  "version": "1.0.0",
+  "description": "Subscribe to changes to a proxied object like a svelte store",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "t6 test/*.js"
+  },
+  "author": "Aria Stewart <aredridel@dinhe.net>",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@aredridel/t6": "^6.0.0",
+    "tap-spec": "^5.0.0"
+  },
+  "eslintConfig": {
+    "parserOptions": {
+      "ecmaVersion": 2018,
+      "sourceType": "module"
+    }
+  }
+}
