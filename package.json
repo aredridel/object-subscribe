@@ -1,6 +1,6 @@
 {
   "name": "@aredridel/object-subscribe",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Subscribe to changes to a proxied object like a svelte store",
   "main": "index.js",
   "type": "module",
