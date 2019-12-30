@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "@aredridel/t6": "^6.0.0",
+    "@aredridel/t6": "^6.0.5",
     "tap-spec": "^5.0.0"
   },
   "eslintConfig": {
