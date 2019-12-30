@@ -19,5 +19,16 @@
       "ecmaVersion": 2018,
       "sourceType": "module"
     }
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aredridel/object-subscribe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aredridel/object-subscribe/issues"
+  },
+  "homepage": "https://github.com/aredridel/object-subscribe#readme"
 }
